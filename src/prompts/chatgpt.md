@@ -14,7 +14,10 @@ O podcast vai falar sobre dicas e novidades sobre o mundo da inteligencia artifi
 
 - O nome deve ser enxuto, um nome e um subtítulo
 - O nome tenha algum trocadilho nerd com nomes de franquias conhecidas como star trek, star wars ou senhor dos anéis
-- O nome deve conter alguma palavra forte que remeta a inteligencia artificial                                                        |
+- O nome deve conter alguma palavra forte que remeta a inteligencia artificial|
+
+
+
 | conteúdo | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em inteligencia artificial como alternativa de resolução de trabalhos na área de programaçãocujo o nome é "SkyNet Coders: O Futuro da Programação" e tem foco em inteligencia artifical,  com o público alvo de iniciantes de programação
 
 o formato do roteiro deve ser
