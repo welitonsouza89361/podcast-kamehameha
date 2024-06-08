@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src=".assets/Imagens/Jeu d'échecs qui brûle dans le desert façon bande .jpg"
+    src="assets/Imagens/Jeu d'échecs qui brûle dans le desert façon bande .jpg"
     width="300"
 />
 </p>
