@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="assets/Imagens/Jeu_d_échecs_qui_brûle_dans_le_desert_façon_bande_-removebg-preview.png"
+    src="assets/Imagens/Dune_Perma_podcast.png"
     width="300"
 />
 </p>
