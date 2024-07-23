@@ -2,11 +2,8 @@
 
 
 ChatGPT：
-
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em front end e eu gostaria de uma ajuda sua para criar 5 sugestões
+##Título
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em front end e eu gostaria de uma ajuda sua para criar 5 sugestões
 de nomes criativos para um podcast de front end feito por nerds, e que tenha algum trocadilho nerd no nome
 
 O podcast vai falar sobre dicas e novidades sobre o mundo do front end e o que está acontecendo no mercado
@@ -21,8 +18,10 @@ O podcast vai falar sobre dicas e novidades sobre o mundo do front end e o que e
 
 - Não quero que o título contenha palavras em inglês
 - Não quero que utilize nenhuma das palavras nessa lista: Javascript, programador
-- Não utilize a palavra frontend no nome nem qualquer variação dela|
-|Roteiro| Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em frontend cujo o nome é **"CSS da Galáxia"** - Estilizando universos digitais.” e tem foco em frontend,  com o público alvo de iniciantes em frontend
+- Não utilize a palavra frontend no nome nem qualquer variação dela
+
+##Épisodio
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em frontend cujo o nome é **"CSS da Galáxia"** - Estilizando universos digitais.” e tem foco em frontend,  com o público alvo de iniciantes em frontend
 
 o formato do roteiro deve ser
 [INTRODUÇÃO]
@@ -35,9 +34,9 @@ o formato do roteiro deve ser
 - no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
 - no bloco [CURIOSIDADE 1] substitua por uma curiosidade de CSS
 - no bloco [CURIOSIDADE 2] sobre uma ferramenta para front ends
-- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Lucas e esse foi o CodeQuest dessa semana'
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou yoda e esse foi o CodeQuest dessa semana'
 - use termos de fácil explicação
-- O podcast vai ser apresentado somente por uma pessoa, chamada Lucas
+- O podcast vai ser apresentado somente por uma pessoa, chamada yoda
 - O podcast deve ser curto
 
 {REGRAS NEGATIVAS}
@@ -45,5 +44,6 @@ o formato do roteiro deve ser
 - Não use muitos termos técnicos
 - Não ultrapasse 5 minutos de duração
 
-|Capa|
-uma pixel art do mestre yoda em um podcast codificando em css 
+  ###Leonardo.ai
+  ##capa
+  uma pixel art do mestre yoda em um podcast codificando em css 
