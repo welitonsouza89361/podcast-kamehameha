@@ -27,4 +27,4 @@
 - Leonardo Ai Para gerar a capa
 
 
-Feito por Adriana Campaner
+Feito por Adriana Campaner.
