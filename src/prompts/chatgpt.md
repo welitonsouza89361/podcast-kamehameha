@@ -39,6 +39,6 @@ o formato do roteiro deve ser
 - Não use muitos termos técnicos
 - Não ultrapasse 5 minutos de duração
 
-  ### Leonardo.ai
+  ### Leonardo.ai:
   ## capa
   uma pixel art do mestre yoda em um podcast codificando em css 
