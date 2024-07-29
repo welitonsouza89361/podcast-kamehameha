@@ -78,8 +78,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
         LinkedIn
     </a>
     &nbsp;|&nbsp;
-
-    &nbsp;|&nbsp;</p>
+</p>
 </p>
 <br/><br/>
 <p>
