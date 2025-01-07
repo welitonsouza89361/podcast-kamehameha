@@ -1,1 +1,1 @@
-https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook
+https://github.com/JuHonorato-SM/prompts-for-podcast-generate-by-ia/blob/main/.gitignore
