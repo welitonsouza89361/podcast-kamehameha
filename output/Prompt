@@ -1,0 +1,31 @@
+. Prompts utilizados no ChatGPT:
+
+Na escolha do nome:
+Você é um roteirista de poscast e vamos criar um podcast de gestão de pessoas em um contexto de equipe virtual, focado na gestão humanizada e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos.
+
+{REGRAS}
+. O nome deve ser exuto, nome e um subtítulo
+. O nome deve conter palavras fortes que remetam à gestão humanizada
+
+{REGRAS NEGATIVAS}
+. Não deverão ser utilizados nomes muito óbvios
+
+O podcast vai falar sobre dicas e desafios da a gestão de pessoas no contexto de equipe virtual.
+
+Na criação do roteiro:
+Você é um roteirista de um podcast e vamos criar um roteiro de um podcast de gestão de equipe em ambiente virtual de forma humanizada.
+O formato do roteiro deve ser:
+
+[Introdução]
+[Dica 1]
+[Dica 2]
+[Finalização]
+
+no bloco [Introdução] comece com "Fala Galera, eu sou Aline Veras e lidero uma equipe virtual na Caixa Economica Federal"
+no bloco [Dica 1] apresente dicar de liderar equipe em ambiente virtual, de forma humanizada
+no bloco [Dica 2] apresente outra dica de outro para ser líder de uma equipe remota
+no bloco [Finalização] substitua por: "Eu sou Aline Veras e esse foi o episódio do Além das telas dessa semana"
+
+Use termos de fácil entendimento
+O podcast será apresentado por apenas uma pessoa chamada Aline Veras
+O podcast deverá ter, no máximo, 5 minutos de duração
