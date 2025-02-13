@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/Designsemnome.png"
+    src="./assets/Untitled design.png"
     width="300"
 />
 </p>
