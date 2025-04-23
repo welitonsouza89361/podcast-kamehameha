@@ -61,7 +61,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 Utilize os prompts dentro do documento `Notion` acessando-o pelo link fornecido na parte de `Materiais` como forma de auxiliar no processo criativo, para um podcast, mais automatizado. Para isso siga o passo a passo abaixo:
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`;
-- 🤖 2. Para narração leve o roteiro gerado pelo chatgpt no  `ElevenLabs` ou narre-o você mesmo;
+- 🤖 2. Para narração leve o roteiro gerado pelo chatgpt ao  `ElevenLabs` ou narre-o você mesmo;
 - 🤖 3. Use os prompts de artes no `midjourney`
 
 prompts mais trabalhado -> prompts mais trabalhados
